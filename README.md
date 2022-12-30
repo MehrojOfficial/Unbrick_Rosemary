@@ -24,7 +24,7 @@ All the required files:
 3. Despite your bootloader was locked or unlocked before the process, your bootloader will be locked after this process.
 
 #### Step 1: 
-- First of all let bootloop to drain your battery completely.(You can actually skip it try if you have more power left);
+- First of all let bootloop to drain your battery completely. (You can actually skip it try if you have more power left);
 
 #### Step 2:
 - Unzip the downloaded 'HardBrickFixRN10S.zip' file and place it somewhere easy to use.
